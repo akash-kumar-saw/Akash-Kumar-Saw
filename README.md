@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋. I am Akash Kumar Saw
 
 <!--
-**akash-kumar-saw/Akash-Kumar-Saw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Detailed-oriented, responsible, and committed DevOps Engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
