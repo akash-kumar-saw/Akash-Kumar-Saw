@@ -1,7 +1,6 @@
 ### Hi there 👋. I am Akash Kumar Saw ###
 
-Detailed-oriented, responsible, and committed DevOps Engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-
+Detailed-Oriented, Responsible and Committed DevOps Engineer, with a Get-it-Done, On-Time, and High-Quality product spirit. Self and Quick learner, Self-Motivated and Confident.
 
 - 🔭 I’m proficient in Java, Goland, Linux, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Ansible and Nagios
 - 🌱 I’m currently learning Terraform
