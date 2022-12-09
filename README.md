@@ -1,7 +1,9 @@
-### Hi there 👋. I am Akash Kumar Saw
+### Hi there 👋. I am Akash Kumar Saw ###
+
+Detailed-oriented, responsible, and committed DevOps Engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
 
 <!--
-Detailed-oriented, responsible, and committed DevOps Engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
