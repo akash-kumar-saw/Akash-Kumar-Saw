@@ -4,7 +4,11 @@ A detailed-oriented, responsible, and committed DevOps Engineer with a "get-it-d
 ## 🔭 Skills and Proficiencies
 I'm proficient in the following technologies:
 - Java
+- C/C++
 - Golang
+- Data Structures & Algorithms
+- Android Studio
+- API's
 - Linux
 - AWS
 - Azure
