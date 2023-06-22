@@ -1,11 +1,18 @@
 # Hi there! 👋 I'm Akash Kumar Saw
-A detailed-oriented, responsible, and committed DevOps Engineer with a get-it-done, on-time, and high-quality product spirit. I'm a self and quick learner, self-motivated and confident.
+A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-time, and high-quality product spirit. I'm a self and quick learner, self-motivated and confident.
 
 ## 🔭 Skills and Proficiencies
 I'm proficient in the following technologies:
 - Java
 - C/C++
 - Golang
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- Solidity
+- Rust
+- Ruby
 - Data Structures & Algorithms
 - Android Studio
 - API's
@@ -18,6 +25,9 @@ I'm proficient in the following technologies:
 - Jenkins
 - Ansible
 - Nagios
+- Terraform
+- Blockchain
+- Web3
 
 ## 🤔 Looking forward to greater opportunities
 I'm always looking for new challenges and exciting projects that can help me grow professionally and personally. If you have any opportunities, feel free to reach out to me.
