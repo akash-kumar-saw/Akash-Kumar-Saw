@@ -2,6 +2,7 @@
 A detailed-oriented, responsible, and committed DevOps & BlockChain Engineer with a get-it-done, on-time, and high-quality product spirit. I'm a self and quick learner, self-motivated and confident.
 
 ## 👼 Portfolio : https://akash-kumar-saw.github.io/portfolio/
+## 👼👼 Portfolio for Blockchain Lovers : https://akash-kumar-saw.github.io/DecentralizedPortfolio/
 
 ## 🔭 Skills and Proficiencies
 I'm proficient in the following technologies:
