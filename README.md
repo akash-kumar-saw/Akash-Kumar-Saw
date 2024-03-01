@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Akash Kumar Saw
 A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-time, and high-quality product spirit. I'm a self and quick learner, self-motivated and confident.
 
-## 👼 Portfolio : https://akash-kumar-saw.github.io/portfolio/
+## 👼 Portfolio : https://akashkumarsaw.in/
 ## 👼👼 Portfolio for Blockchain Lovers : https://akash-kumar-saw.github.io/DecentralizedPortfolio/
 
 ## 🔭 Skills and Proficiencies
