@@ -5,7 +5,7 @@ A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-
 ## 👼👼 Portfolio for Blockchain Lovers : https://akash-kumar-saw.github.io/DecentralizedPortfolio/
 
 ## 🔭 Skills and Proficiencies
-- **Languages:** Java, C, C++, Dart, Swift, HTML, CSS, JavaScript, TypeScript, Golang, Python, Solidity, Git
+- **Languages:** Java, C, C++, Dart, Swift, HTML, CSS, JavaScript, TypeScript, PHP, Golang, Python, Solidity, Git
 - **Database:** MySQL, SQL, MongoDB, PostgreSQL, Firebase
 - **Application Development:** Swing, Android Studio, Xcode, React Native, Flutter, Django, Flask, ReactJS, TailwindCSS, ViteJS, NextJS, NodeJS, ExpressJS, API’s, WebSocket
 - **CloudComputing & DevOps:** Linux, AWS, Asure, GCP, Docker, Kubernetes, Github Action,  Jenkins, Ansible, Puppet, Nagios, Terraform
