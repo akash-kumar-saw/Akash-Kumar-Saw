@@ -7,7 +7,7 @@ A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-
 ## 🔭 Skills and Proficiencies
 - **Languages:** Java, C, C++, Dart, Swift, HTML, CSS, JavaScript, TypeScript, PHP, Golang, Python, Solidity, SQL, Git
 - **Database:** MySQL, MongoDB, PostgreSQL, Firebase
-- **Application Development:** Swing, Android Studio, Xcode, React Native, Flutter, Django, Flask, ReactJS, TailwindCSS, ViteJS, NextJS, NodeJS, ExpressJS, API’s, WebSocket
+- **Application Development:** Swing, Android Studio, Xcode, React Native,jQuery, Flutter, Django, Flask, ReactJS, TailwindCSS, ViteJS, NextJS, NodeJS, ExpressJS, API’s, WebSocket
 - **CloudComputing & DevOps:** Linux, AWS, Asure, GCP, Docker, Kubernetes, Github Action,  Jenkins, Ansible, Puppet, Nagios, Terraform
 - **Web3/Blockchain:** Smart Contract, Chianlink/Oracle, Web3.py, Eth-Brownie, Web3.js, Ethers.js, Truffle, Hardhat, Ganache
 
