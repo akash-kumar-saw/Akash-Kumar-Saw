@@ -9,7 +9,7 @@ A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-
 - **Database:** MySQL, MongoDB, PostgreSQL, Firebase
 - **Application Development:** Swing, Android Studio, Xcode, React Native, jQuery, Flutter, Django, Flask, Ajax, Laravel, ReactJS, TailwindCSS, ViteJS, NextJS, NodeJS, ExpressJS, API’s, WebSocket
 - **CloudComputing & DevOps:** Linux, AWS, Asure, GCP, Docker, Kubernetes, Github Action,  Jenkins, Ansible, Puppet, Nagios, Terraform
-- **Web3/Blockchain:** Smart Contract, Chianlink/Oracle, Web3.py, Eth-Brownie, Web3.js, Ethers.js, Truffle, Hardhat, Ganache
+- **Web3/Blockchain:** Smart Contract, OpenZeppelin, Chianlink/Oracle, Web3.py, Eth-Brownie, Web3.js, Ethers.js, Truffle, Hardhat, Ganache
 
 ## 🤔 Looking forward to greater opportunities
 I'm always looking for new challenges and exciting projects that can help me grow professionally and personally. If you have any opportunities, feel free to reach out to me.
