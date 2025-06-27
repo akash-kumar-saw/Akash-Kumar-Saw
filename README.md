@@ -2,7 +2,6 @@
 A detailed-oriented, responsible, and committed Engineer with a get-it-done, on-time, and high-quality product spirit. I'm a self and quick learner, self-motivated and confident.
 
 ## 👼 Portfolio : https://akashkumarsaw.in/
-## 👼👼 Portfolio for Blockchain Lovers : https://akash-kumar-saw.github.io/DecentralizedPortfolio/
 
 ## 🔭 Skills and Proficiencies
 - **Languages:** Java, C, C++, Dart, Swift, HTML, CSS, JavaScript, TypeScript, PHP, Golang, Python, Solidity, SQL, Git
